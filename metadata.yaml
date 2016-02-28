@@ -1,0 +1,27 @@
+_repo: A-Week-on-the-Concord-and-Merrimack-Rivers_4232
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thoreau, Henry David, 1817-1862 -- Travel -- Merrimack River (N.H. and Mass.)'
+- !lcsh 'Concord River (Mass.) -- Description and travel'
+- !lcc 'F001'
+- !lcsh 'Thoreau, Henry David, 1817-1862 -- Travel -- Massachusetts -- Concord River'
+- !lcsh 'Merrimack River (N.H. and Mass.) -- Description and travel'
+title: A Week on the Concord and Merrimack Rivers
+url: http://www.gutenberg.org/ebooks/4232
