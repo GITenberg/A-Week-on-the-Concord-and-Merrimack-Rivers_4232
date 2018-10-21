@@ -1,5 +1,5 @@
 _repo: A-Week-on-the-Concord-and-Merrimack-Rivers_4232
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'F001'
 - !lcsh 'Thoreau, Henry David, 1817-1862 -- Travel -- Massachusetts -- Concord River'
 - !lcsh 'Merrimack River (N.H. and Mass.) -- Description and travel'
+- GITenberg
 title: A Week on the Concord and Merrimack Rivers
 url: http://www.gutenberg.org/ebooks/4232
